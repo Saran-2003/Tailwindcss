@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card{
+    @apply ml-24 m-5 overflow-hidden w-fit p-5 bg-white hover:transform hover:scale-125;
+}
